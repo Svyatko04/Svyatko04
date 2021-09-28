@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Svyatoslav , I'm 17.
 - 🌱 I’m studying at Lviv Polytechnic National University.
-- 💞️ I have graduated from IT Step academy(I have been sudying there for 5 years).
+- 💞️ I have graduated from IT Step academy(I had been sudying there for 5 years).
 - 📫 I'm hardworking and always reach my aim.
 
 <!---
